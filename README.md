@@ -18,9 +18,9 @@
 
 | 机场名称   | 线路支持       |  最低套餐          | 试用福利     |   按流量购买|  机场特色    |推荐指数 | 专属优惠码   |
 |:------------:|:----------------:|:-------------------:|:-------------:|:-------:|:---------:|:--------------:|:-----------:|
-| [FlyBit](https://goflybit.pages.dev/#/register?code=ckrpv0zT)   | IPLC专线+中转       | ¥12/100G/月       | 1天2G  | ✔支持 | 所有线路倍率都是1，使用设备无数量限制 | ★★★★★     | `flybit`    |
 |[99吧](https://99bar.pages.dev/#/register?code=oP5y2lnk) | IPLC专线+BGP中转       | ¥9.9/99G/月     |  1G1天  | ✔支持 | 流量无限制，设备无限制，绝对暴力 | ★★★★★     | `618`    |
-| [小蜜蜂](https://linksys360gna.xmfvipaff01.cc/register?aff=xAryDn6F)   | IPLC专线      | ¥96/60G/年       | 无   |  ✔支持 |  年度旗舰款：96元/年（约8元/月不限速,限时7折）       |   ★★★★☆        | `xmfxmf7`     |
+| [FlyBit](https://goflybit.pages.dev/#/register?code=ckrpv0zT)   | IPLC专线+中转       | ¥12/100G/月       | 1天2G  | ✔支持 | 所有线路倍率都是1，使用设备无数量限制 | ★★★★★     | `flybit`    |
+| [小蜜蜂](https://linksys360gna.xmfvipaff01.cc/register?aff=xAryDn6F)   | IPLC专线      | ¥96/60G/年       | 无   |  ✔支持 |  年度旗舰款：96元/年（约8元/月不限速,限时7折）       |   ★★★★☆        | `xmfxmf7  |
 | [青云梯](https://ivt01.qytaff.cc/register?aff=EZEbaMhj)   | IPLC专线      | ¥96/60G/年       | 无  |   ❌不支持 | 2020.11.1开业，老牌机场   |   ★★★★☆        |  `wuyi85`    |
 | [TNTCloud](https://linksy60gna.tntvipaff.cc/#/register?code=FkHIkFeV)   | IPLC专线      | ¥30/60G/季       | 无   |  ❌不支持 | 季付限量包，低至10元每月     |   ★★★★☆        | `TNT85`     |
 | [银河云](https://inv02.galaxyaff.cc/register?aff=mQ4CgqXD)   | IPLC专线      | ¥98/50G/年       | 无   |  ❌不支持 |         |   ★★★☆☆        |  `wuyi80`    |
