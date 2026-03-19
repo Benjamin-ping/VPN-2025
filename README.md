@@ -76,49 +76,54 @@
     </tr>
   </thead>
   <tbody>
+   <tr>
+     <td><strong>九九@全年特惠套餐</strong></td>
+      <td>66 GB</td>
+      <td colspan="4">年付99元，搭配优惠码：2026-99，低至7.4元/月</td>
+    </tr>
     <tr>
       <td><strong>九九@星耀VIP</strong></td>
       <td>99 GB</td>
-      <td>¥9.9</td>
-      <td>¥28.9</td>
-   <td>¥49.9</td>
-   <td>¥99.9</td>
+      <td>¥12.9</td>
+      <td>¥36.9</td>
+   <td>¥72.9</td>
+   <td>¥139.9</td>
     </tr>
     <tr>
       <td><strong>九九@铂金VIP</strong></td>
       <td>199 GB</td>
-      <td>¥19.9</td>
-      <td>¥59.9</td>
-   <td>¥109.9</td>
-   <td>¥219.9</td>
+      <td>¥24.9</td>
+      <td>¥72.9</td>
+   <td>¥139.9</td>
+   <td>¥274.9</td>
     </tr>
  <tr>
       <td><strong>九九@钻石VIP</strong></td>
       <td>299 GB</td>
-      <td>¥29.9</td>
-      <td>¥89.9</td>
-   <td>¥169.9</td>
-   <td>¥349.9</td>
+      <td>¥36.9</td>
+      <td>¥108.9</td>
+   <td>¥212.9</td>
+   <td>¥419.9</td>
     </tr>
 	 <tr>
       <td><strong>九九@星钻SVIP</strong></td>
       <td>111 GB</td>
-      <td colspan="4">¥29.9，纯流量套餐，无时间限制</td>
+      <td colspan="4">¥35.9，纯流量套餐，无时间限制</td>
     </tr>
 	 <tr>
       <td><strong>九九@至尊SVIP</strong></td>
       <td>222 GB</td>
-      <td colspan="4">¥49.9，纯流量套餐，无时间限制</td>
+      <td colspan="4">¥69.9，纯流量套餐，无时间限制</td>
     </tr>
  <tr>
       <td><strong>九九@皇冠SVIP</strong></td>
       <td>555 GB</td>
-      <td colspan="4">¥99.9，纯流量套餐，无时间限制</td>
+      <td colspan="4">¥139.9，纯流量套餐，无时间限制</td>
     </tr>
  <tr>
       <td><strong>九九@尊耀SVIP</strong></td>
       <td>1111 GB</td>
-      <td colspan="4">¥199.9，纯流量套餐，无时间限制</td>
+      <td colspan="4">¥259.9，纯流量套餐，无时间限制</td>
     </tr>
    </tbody>
 </table>
